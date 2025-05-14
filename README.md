@@ -5,7 +5,7 @@ I'm currently studying **Intelligent Systems Engineering** with a concentration 
 - 🌱 I'm currently learning: Advanced neural networks and reinforcement learning
 - 🤝 I'm looking to collaborate on: **Any project**, especially ones outside of my comfort zone!
 - 💬 Ask me about: Machine Learning, Python, C++, or AI Development
-- 📫 How to reach me: [reaganmprice@gmail.com], [LinkedIn](https://www.linkedin.com/in/rp2004)
+- 📫 How to reach me: [Gmail](mailto:reaganmprice@gmail.com), [LinkedIn](https://www.linkedin.com/in/rp2004)
 - ⚡Fun fact: I have four siblings, and one of them is also a systems engineer!
 ## Technologies and Tools
 ![Languages and Tools](https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,java,js,HTML,CSS,git,github,vscode)
