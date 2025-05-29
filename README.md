@@ -11,6 +11,7 @@ I'm currently a sophomore studying **Intelligent Systems Engineering** with a co
 ![Languages and Tools](https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,java,js,HTML,CSS,git,github,vscode)
 ## Github Stats
 ![Reagan's Github Stats](https://github-readme-stats.vercel.app/api?username=reaganprice2004&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reaganprice2004&layout=compact&langs_count=10&hide_progress=true)
 ## Top Projects
 - [**Project Name 1**](#) - Short description
 - [**Project Name 2**](#) - Short description
