@@ -1,6 +1,6 @@
 # Hi, I'm Reagan Price!
 ## About Me
-I'm currently studying **Intelligent Systems Engineering** with a concentration in **Artificial Intelligence**. I'm passionate about blending problem-solving with the development of **machine learning** systems to build impactful, intelligent solutions.
+I'm currently a sophomore studying **Intelligent Systems Engineering** with a concentration in **Artificial Intelligence** at the University of North Carolina Wilmington. I'm passionate about blending problem-solving with the development of **machine learning** systems to build impactful, intelligent solutions.
 - 🔭 I'm currently working on: Projects that explore AI, ML, and automation
 - 🌱 I'm currently learning: Advanced neural networks and reinforcement learning
 - 🤝 I'm looking to collaborate on: **Any project**, especially ones outside of my comfort zone!
